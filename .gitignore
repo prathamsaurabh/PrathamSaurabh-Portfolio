@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+.env*
+
+# Original HEIC photos (the site uses the JPGs in public/exploring)
+Mountain Pics/
